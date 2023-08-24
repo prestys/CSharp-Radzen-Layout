@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSharp Radzen Vertical Layout.props" />
+</Project>

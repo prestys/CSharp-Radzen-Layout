@@ -1,0 +1,34 @@
+﻿<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item">
+            <NavLink style="z-index: 999; color: white; text-decoration: none; padding: 0 16px; height: 100%; width: 100%; display: flex; align-items: center;" class="nav-link" href="" Match="NavLinkMatch.All">
+                <span style="color: white" class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+            <div class="navback"></div>
+        </div>
+        <div class="nav-item">
+            <NavLink style="z-index: 999; color: white; text-decoration: none; padding: 0 16px; height: 100%; width: 100%; display: flex; align-items: center;" class="nav-link" href="counter">
+                <span style="color: white" class="oi oi-plus" aria-hidden="true"></span> Counter
+            </NavLink>
+            <div class="navback"></div>
+        </div>
+        <div class="nav-item">
+            <NavLink style="z-index: 999; color: white; text-decoration: none; padding: 0 16px; height: 100%; width: 100%; display: flex; align-items: center;" class="nav-link" href="fetchdata">
+                <span style="color: white" class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            </NavLink>
+            <div class="navback"></div>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+
+}

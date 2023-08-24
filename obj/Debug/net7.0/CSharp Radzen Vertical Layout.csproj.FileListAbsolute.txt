@@ -1,0 +1,35 @@
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\appsettings.json
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\CSharp Radzen Vertical Layout.staticwebassets.runtime.json
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\CSharp Radzen Vertical Layout.exe
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\CSharp Radzen Vertical Layout.deps.json
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\CSharp Radzen Vertical Layout.runtimeconfig.json
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\CSharp Radzen Vertical Layout.dll
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\CSharp Radzen Vertical Layout.pdb
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.csproj.AssemblyReference.cache
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.AssemblyInfoInputs.cache
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.AssemblyInfo.cs
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.csproj.CoreCompileInputs.cache
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.RazorAssemblyInfo.cache
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.RazorAssemblyInfo.cs
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\staticwebassets\msbuild.CSharp Radzen Vertical Layout.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\staticwebassets\msbuild.build.CSharp Radzen Vertical Layout.props
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CSharp Radzen Vertical Layout.props
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CSharp Radzen Vertical Layout.props
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\scopedcss\bundle\CSharp Radzen Vertical Layout.styles.css
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\scopedcss\projectbundle\CSharp Radzen Vertical Layout.bundle.scp.css
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.dll
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\refint\CSharp Radzen Vertical Layout.dll
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.pdb
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.genruntimeconfig.cache
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\ref\CSharp Radzen Vertical Layout.dll
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\Radzen.Blazor.dll
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+C:\Users\Jay.Prest\RiderProjects\CSharp Radzen Vertical Layout\CSharp Radzen Vertical Layout\obj\Debug\net7.0\CSharp Radzen Vertical Layout.csproj.CopyComplete
